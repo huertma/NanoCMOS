@@ -17,5 +17,9 @@
 
 Refer to [README](docs/source/index.rst) for this sample project documentation. 
 
-pasted image 0.png
+<img width="320" alt="Screen Shot 2023-10-12 at 3 17 11 PM" src="https://github.com/huertma/NanoCMOS/assets/45831639/b85c0edd-8e09-4e75-b171-b299ab2f66c0">
+
+<img width="336" alt="Screen Shot 2023-10-12 at 3 15 38 PM" src="https://github.com/huertma/NanoCMOS/assets/45831639/8dc7d14b-db0c-4409-b802-718af7616a73">
+
+<img width="696" alt="Screen Shot 2023-10-12 at 3 18 01 PM" src="https://github.com/huertma/NanoCMOS/assets/45831639/2b6f57ae-6e46-4734-99c3-9c12e74d50eb">
 
